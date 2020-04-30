@@ -1,0 +1,9 @@
+<svg id="Composant_11_3" data-name="Composant 11 – 3" xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <circle id="Ellipse_80" data-name="Ellipse 80" cx="13.333" cy="13.333" r="13.333" transform="translate(6.745 6.745)" fill="#a63e7e"/>
+  <rect id="Rectangle_110" data-name="Rectangle 110" width="3.604" height="18.018" rx="1.802" transform="translate(18.233 11.11) rotate(1)" fill="#fff"/>
+  <rect id="Rectangle_111" data-name="Rectangle 111" width="3.604" height="18.018" rx="1.802" transform="translate(28.932 18.673) rotate(91)" fill="#fff"/>
+  <g id="Ellipse_81" data-name="Ellipse 81" fill="none" stroke="#a63e7e" stroke-width="2">
+    <circle cx="20" cy="20" r="20" stroke="none"/>
+    <circle cx="20" cy="20" r="19" fill="none"/>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+[
+{"type":"header","version":"4.8.5","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"checkyourlife"},
+{"type":"table","name":"list","database":"checkyourlife","data":
+[
+{"list_id":"11","owner":"1","json":"[{\"id\": 0, \"done\": \"false\", \"name\": \"a\", \"trash\": \"false\"}, {\"id\": 1, \"done\": \"true\", \"name\": \"b\", \"trash\": \"false\"}, {\"id\": 2, \"done\": \"false\", \"name\": \"v\", \"trash\": \"true\"}, {\"title\": \"test_1\"}]","title":"test_1"},
+{"list_id":"13","owner":"1","json":"[{\"id\": 0, \"done\": \"true\", \"name\": \"tache1\", \"trash\": \"false\"}, {\"id\": 1, \"done\": \"false\", \"name\": \"tache2\", \"trash\": \"true\"}, {\"id\": 2, \"done\": \"false\", \"name\": \"tache3\", \"trash\": \"false\"}, {\"title\": \"test_2\"}]","title":"test_2"}
+]
+}
+,{"type":"table","name":"users","database":"checkyourlife","data":
+[
+{"user_id":"1","user_email":"a@gmail.com","user_nickname":"a","user_password":"a"},
+{"user_id":"3","user_email":"z@gmail.com","user_nickname":"z","user_password":"z"},
+{"user_id":"4","user_email":"lallie@gmail.com","user_nickname":"lallie","user_password":"lallie"},
+{"user_id":"5","user_email":"lucas@gmail.com","user_nickname":"lucaslucas","user_password":"lucas"}
+]
+}
+]

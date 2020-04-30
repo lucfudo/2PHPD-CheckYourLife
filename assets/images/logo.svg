@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="138.363" height="113.963" viewBox="0 0 138.363 113.963">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.129" y1="0.186" x2="1" y2="0.719" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#cc1884"/>
+      <stop offset="1" stop-color="#632c11"/>
+    </linearGradient>
+    <filter id="Union_11" x="20.363" y="0" width="118" height="113.963" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <linearGradient id="linear-gradient-2" x1="0.129" y1="0.186" x2="1" y2="0.719" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#c9178b"/>
+      <stop offset="0.97" stop-color="#662b15"/>
+      <stop offset="1" stop-color="#632c11"/>
+    </linearGradient>
+  </defs>
+  <g id="Composant_9_1" data-name="Composant 9 – 1" transform="translate(0 1.963)">
+    <g transform="matrix(1, 0, 0, 1, 0, -1.96)" filter="url(#Union_11)">
+      <path id="Union_11-2" data-name="Union 11" d="M9.636,93.463c0-1.118,7.926-2.065,18.858-2.384A50.032,50.032,0,0,1,30.2,0V44.926a19.8,19.8,0,1,0,39.6,0V0A50,50,0,0,1,50,95.927q-1.834,0-3.647-.13c-3.015.108-6.291.167-9.717.167C21.725,95.963,9.636,94.844,9.636,93.463Z" transform="translate(29.36 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <path id="Soustraction_18" data-name="Soustraction 18" d="M50,100A50.013,50.013,0,0,1,30.538,3.929,50.085,50.085,0,0,1,77.805,8.438,50.189,50.189,0,0,1,95.926,30.2H51a19.8,19.8,0,1,0,0,39.6H95.926A50.01,50.01,0,0,1,50,100Z" fill="url(#linear-gradient-2)"/>
+  </g>
+</svg>

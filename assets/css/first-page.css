@@ -1,0 +1,121 @@
+body {
+
+    background: linear-gradient(180deg, rgba(196,22,149,1) 0%, rgba(225,31,94,1) 46.02%, rgba(196,78,33,1) 100%) no-repeat center fixed;
+}
+
+h1{
+    position: relative;
+
+    white-space: nowrap;
+    text-align: center;
+    font-family: Kungfont, cursive;
+    font-size: 80px;
+
+    color: #FAFAFA;
+}
+
+#login-box, #registration-box{
+    position: relative;
+    border-radius: 141px;
+    width: 600px;
+    height: 600px;
+    margin: 0 auto auto;
+
+    text-align: center;
+
+    background-color: #FAFAFA;
+}
+
+h2{
+    position: relative;
+    top: 50px;
+
+    font-family: "Nirmala UI" , sans-serif;
+    font-weight: lighter;
+    font-size: 35px;
+
+    color: #CE2875;
+}
+
+input, ::placeholder{
+    margin-top: 40px;
+    border: 1px solid #CE2875;
+    border-radius: 24px;
+    width: 400px;
+    height: 60px;
+
+    padding-left: 15px;
+
+    font-family: Nirmala UI, sans-serif;
+    font-weight: lighter;
+    font-size: 25px;
+    color: #FAFAFA;
+
+    background-color: #CE2875;
+}
+
+.validate{
+    position: static;
+    border: 1px solid #CE2875;
+    border-radius: 24px;
+    width: 140px;
+    height: 70px;
+    margin-top: 50px;
+
+    text-align: center;
+    font-family: Nirmala UI, sans-serif;
+    font-weight: lighter;
+    font-size: 25px;
+
+    color: #CE2875;
+
+    background-color: #FAFAFA;
+}
+
+#submit-registration-button{
+    margin-top: 35px;
+}
+
+.change{
+    position: static;
+    border: 0;
+    border-radius: 24px;
+    width: 140px;
+    margin-top: 10px;
+
+    text-align: center;
+    font-family: Nirmala UI, sans-serif;
+    font-weight: bold;
+    font-size: 15px;
+
+    color: #CE2875;
+
+    background-color: #FAFAFA;
+}
+
+#logo{
+    position: static;
+    margin-top: 45px;
+    margin-left: 900px;
+}
+
+#form-message, .form-message{
+    text-align: center;
+    font-family: "Nirmala UI" , sans-serif;
+    font-weight: bold;
+    font-size: 20px;
+
+    color: #ff3685;
+}
+
+.success-message{
+    color: #15a700;
+}
+
+.input-error{
+    box-shadow:0 0 20px #c30000;
+}
+
+#form-message{
+    display: none;
+}
